@@ -9,6 +9,7 @@
 
 - 📫 Contact me: **alexcovone@gmail.com**
 
+<br></br>
 <p align="left"> <a href="https://twitter.com/alexcovone" target="blank"><img src="https://img.shields.io/twitter/follow/alexcovone?logo=twitter&style=for-the-badge" alt="alexcovone" /></a> </p>
 
 <section>
