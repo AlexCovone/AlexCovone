@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Alex Covone</h1>
 <h3 align="center">A passionate, constant-learning full-stack software engineer that places an emphasis on functionality and intentionality.</h3>
 
-- 🔭 I’m currently working on **a habit-tracking self-development app.**
+- 🔭 I’m currently working on **an app for self-contractors to find local gigs.**
 
 - 🌱 I’m currently learning **Node.js, Express, and MongoDB.**
 
