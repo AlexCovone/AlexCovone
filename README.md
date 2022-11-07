@@ -1,5 +1,3 @@
-![alt text](/Gray%20Minimalist%20Professional%20Writer%20Facebook%20Cover.jpg)
-
 <h1 align="center">Hey! I'm Alex Covone</h1>
 <h3 align="center">A passionate, constant-learning full-stack software engineer that places an emphasis on functionality and intentionality.</h3>
 
