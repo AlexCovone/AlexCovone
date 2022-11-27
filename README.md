@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an app for self-contractors to find local gigs.**
 
-- 🌱 I’m currently learning **Node.js, Express, and MongoDB.**
+- 🌱 I’m currently learning **Google OAuth and Passport.**
 
 - 💬 Ask me about **my background in psychology, anatomy, and physiology.**
 
