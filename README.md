@@ -12,7 +12,7 @@
 <section>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,bootstrap,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,bootstrap,tailwind,git&perline=6" />
 </p>
 
 <h3 align="center">Connect With Me:</h3>
