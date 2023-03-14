@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an app for self-contractors to find local gigs and organize their schedules.**
 
-- 🌱 I’m currently learning **React and TypeScript.**
+- 🌱 I’m currently learning **React, TypeScript, and Swift.**
 
 - 💬 Ask me about **my background in psychology, anatomy, and physiology.**
 
