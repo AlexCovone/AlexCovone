@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently creating a **platform to track inventory and company finances for retail arbitrage businesses.**
 
-- 🌱 I’m currently working with **React, TypeScript, and Swift.**
+- 🌱 I’m currently working with **React and TypeScript.**
 
 - 💬 Ask me about **my background in psychology, anatomy, and physiology.**
 
