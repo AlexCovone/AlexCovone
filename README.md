@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working with **React and TypeScript.**
 
-- 💬 Ask me about **my background in psychology, anatomy, and physiology.**
+- 💬 Ask me about **my background in physical therapy and psychology.**
 
 - 📫 Contact me: **alexcovone@gmail.com**
 
