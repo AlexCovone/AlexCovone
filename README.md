@@ -1,8 +1,6 @@
 <h1 align="center">Hello! I'm Alex Covone</h1>
 
-- 🔭 I’m currently creating a **platform to track inventory and company finances for retail arbitrage businesses.**
-
-- 🌱 I’m currently working with **React and TypeScript.**
+- 🌱 I’m currently working with **React, TypeScript, and AWS.**
 
 - 💬 Ask me about **my background in physical therapy and psychology.**
 
