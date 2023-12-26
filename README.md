@@ -9,5 +9,5 @@
 <section>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgres,git,aws,&perline=6" />
 </p>
